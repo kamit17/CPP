@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-  cout <<"Lucky is\nsuch a pain in the ass\n";
-  cout <<"Luc\nky is such a pain in the ass\n";
-  cout <<"Lucky is such a pain in the ass\n";
-  cout <<"Lucky is such a pain in the ass\n";
-  cout <<"Lucky is such a pain in the ass\n";
+  cout <<"Bucky is\nsuch a pain in the ass\n";
+  cout <<"Buc\nky is such a pain in the ass\n";
+  cout <<"Bucky is such a pain in the ass\n";
+  cout <<"Bucky is such a pain in the ass\n";
+  cout <<"Bucky is such a pain in the ass\n";
 }
