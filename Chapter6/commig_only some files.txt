@@ -1,0 +1,18 @@
+use the add command interactively:
+
+git add -i
+then you see:
+
+*** Commands ***
+  1: status       2: update       3: revert       4: add untracked
+  5: patch        6: diff         7: quit         8: help
+What now>
+hit 4 (add untracked), then you see
+
+What now> 4
+  1: file1
+  2: file2
+Add untracked>>
+hit 1 and 2 to add file1 and file2
+
+then you commit these files: git commit
