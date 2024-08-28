@@ -1,0 +1,20 @@
+# Ignore compiled executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore other temporary or compiled files
+*.dll
+*.pdb
+*.ilk
+*.log
+
+# Ignore build directories (optional)
+build/
+
+.pioenvs
+.piolibdeps
+.vscode
+*.out
